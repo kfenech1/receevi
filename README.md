@@ -1,4 +1,4 @@
-# Receevi - The Open Source WhatsApp Business Solution
+## Receevi - The Open Source WhatsApp Business Solution
 
 ## Shape project future with Your Feedback
 Help us improve our open-source "Receevi" project! Share your thoughts and suggestions in our community discussion: [Click here](https://github.com/receevi/receevi/discussions/3)
